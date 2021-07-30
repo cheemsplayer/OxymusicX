@@ -236,7 +236,7 @@ class MusicPlayer(object):
 
 
 
-mp = MusicPlayer()
+mp = OxymusicX()
 
 
 # pytgcalls handlers
